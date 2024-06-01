@@ -1,0 +1,17 @@
+{
+  "base": {
+    "logo": "",
+    "project": "HW-13",
+    "environment": "qa.guru",
+    "comment": "",
+    "reportLink": "",
+    "language": "en",
+    "allureFolder": "allure-report",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "",
+    "chat": "",
+    "replyTo": ""
+  }
+}
